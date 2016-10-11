@@ -81,7 +81,7 @@ Then build the package with the following command:
 
 After installation of the package the users should copy the /etc/cap32.cfg file to their homedirectory with the following command:
 
-`cp /etc/cap32.cfg .cap32.cfg`
+`cp /etc/cap32.cfg ~/.cap32.cfg`
 
 #### Windows target:
 
